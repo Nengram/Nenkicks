@@ -1,5 +1,5 @@
 "use client";
-import FeatureCarousel from "@/components/ui/feature-carousel";
+import FeatureCarousel from "@/app/_components/Hotspot/feature-carousel";
 
 export default function Demo() {
   return (
